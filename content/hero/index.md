@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Sajal Goyal'
-subtitle: 'I build things for the web.'
+subtitle: 'I learn things to build something.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer at AUV.
+I'm a Data Science Enthusiast
