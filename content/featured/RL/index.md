@@ -1,14 +1,17 @@
 ---
 date: '2'
-title: 'Text-Reconstruction-Application'
+title: 'Playing Atari with Reinforcement Learning'
 cover: './demo.png'
-github: 'https://github.com/sajalgoyal113/Text-Reconstruction-Application'
+github: 'https://github.com/sajalgoyal113/tensorpack'
 tech:
-  - Keras
+  - CNN
   - Tensorflow
-  - Python
-  - Numpy
+  - DQN
+  - MDP
 showInProjects: true
 ---
 
-Built a Deep Learning model which reconstructs a noisy image into clean image. Autoencoders are used for unsupervised training of the model. 
+- Implemented Reinforcement Learning algorithm with CNN model as function approximator for Markov Decision Process where raw pixels of current state are input
+- Used Experience replay to reduce overfitting thereby smoothing out and speeding up the training process
+- Trained the Deep Q-network model for 10+ hours which reached Human level accuracy on an average
+- Implemented model free network does not take internal features of emulator and outputs optimal action for each state
