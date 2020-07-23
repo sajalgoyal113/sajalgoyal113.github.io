@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Sajal Goyal | Software Engineer',
+  siteTitle: 'Sajal Goyal | Data Science Enthusiast',
   siteDescription:
     'Sajal Goyal is a Machine Learning Enthusiast, who specializes in Machine Learning Algorithms and Computer Vision.',
   siteKeywords:
@@ -23,16 +23,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/sajal-goyal-94854388',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/sajalgoyal_/?hl=en',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/home',
     },
   ],
 
