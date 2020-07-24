@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Sajal Goyal | Data Science Enthusiast',
   siteDescription:
-    'Sajal Goyal is a Machine Learning Enthusiast, who specializes in Machine Learning Algorithms and Computer Vision.',
+    'Sajal Goyal, Junior Undergraduate, Dept. of Chemical Engineering, IIT Kanpur.',
   siteKeywords:
-    'Sajal Goyal, Sajal, Goyal, software engineer,iit, iit kanpur, iitk, data science, machine learning, agra, coursera, auv, auviitk, sajal goyal iitk',
+    'Sajal Goyal, Sajal, Goyal, Chemical Engineering ,iit, iit kanpur, iitk, data science, machine learning, agra, auv, auviitk, sajal goyal iitk',
   siteUrl: 'https://sajalgoyal113.github.io/',
   siteLanguage: 'en_US',
   //  googleAnalyticsID: 'UA-45666519-2',
