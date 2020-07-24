@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: '       Text Reconstruction Application'
 cover: './demo.png'
 github: 'https://github.com/sajalgoyal113/Text-Reconstruction-Application'
