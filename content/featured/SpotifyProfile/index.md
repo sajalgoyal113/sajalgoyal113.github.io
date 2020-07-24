@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Text-Reconstruction-Application'
+title: '       Text Reconstruction Application'
 cover: './demo.png'
 github: 'https://github.com/sajalgoyal113/Text-Reconstruction-Application'
 tech:
