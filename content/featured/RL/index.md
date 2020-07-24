@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Playing Atari with Reinforcement Learning'
+title: 'Playing Atari with Deep RL'
 cover: './demo.png'
 github: 'https://github.com/sajalgoyal113/tensorpack'
 tech:
