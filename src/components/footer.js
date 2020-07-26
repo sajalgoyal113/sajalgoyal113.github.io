@@ -100,27 +100,7 @@ const Footer = () => {
             ))}
         </StyledSocialList>
       </StyledSocial>
-      <StyledMetadata tabindex="-1">
-        <StyledGitHubLink
-          href="https://github.com/sajalgoyal113/sajalgoyal113.github.io"
-          target="_blank"
-          rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Sajal Goyal</div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
-        </StyledGitHubLink>
-      </StyledMetadata>
     </StyledContainer>
   );
 };
