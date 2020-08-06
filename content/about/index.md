@@ -10,9 +10,10 @@ skills:
   - HTML
   - ROS
   - Microsoft Excel
+  - Latex
 ---
 
-Hello! I am a second year Undergraduate at [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in the Chemical Department. I have knowledge in Machine Learning and Computer Vision and have done creative projects related to them.
+Hello! I am a Third year Undergraduate at [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in the Chemical Department. I have knowledge in Machine Learning and Computer Vision and have done creative projects in field of Natural Language Processing and Reinforcement Learning.
 
 Currently I am Leading Software Team at AUV (Autonomous Underwater Vehicle), IIT Kanpur. Here we come up with creative ideas to solve complex autonomous tasks. I love to spend my free time discovering how Machine Learning Techniques can be applied in various fields to minimize the human labour.
 
