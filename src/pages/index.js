@@ -27,20 +27,6 @@ IndexPage.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-<script>
-  window.watsonAssistantChatOptions = {
-      integrationID: "5b9c2a04-3fe9-432c-9f15-19ab344b587b", // The ID of this integration.
-      region: "au-syd", // The region your integration is hosted in.
-      serviceInstanceID: "359d4800-9587-4740-a6c3-43818a368845", // The ID of your service instance.
-      onLoad: function(instance) { instance.render(); }
-    };
-  setTimeout(function(){
-    const t=document.createElement('script');
-    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
-    document.head.appendChild(t);
-  });
-</script>
-
 export default IndexPage;
 
 export const pageQuery = graphql`
