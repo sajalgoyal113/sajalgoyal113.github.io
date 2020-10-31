@@ -30,6 +30,7 @@ const Head = ({ metadata }) => (
 
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />
+    <meta name="google-site-verification" content="3X9_yiURZY4g8cOxTd9CJ4kq9kszJezHGwkM2rUsUoM" />
     <meta name="google-site-verification" content={config.googleVerification} />
     <meta property="og:title" content={metadata.title} />
     <meta property="og:description" content={metadata.description} />
