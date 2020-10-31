@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://sajalgoyal113.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-6B0Z34CZQJ',
-  //  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: '3X9_yiURZY4g8cOxTd9CJ4kq9kszJezHGwkM2rUsUoM',
   name: 'Sajal Goyal',
   location: 'Agra, India',
   email: 'sajalg@iitk.ac.in',
