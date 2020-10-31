@@ -28,16 +28,6 @@ const Head = ({ metadata }) => (
     <link rel="shortcut icon" href={favicon} />
     <link rel="canonical" href="https://brittanychiang.com" />
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6B0Z34CZQJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6B0Z34CZQJ');
-</script>
-  
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />
     <meta name="google-site-verification" content={config.googleVerification} />
