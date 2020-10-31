@@ -6,7 +6,7 @@ module.exports = {
     'Sajal Goyal, Sajal, Goyal, Chemical Engineering ,iit, iit kanpur, iitk, data science, machine learning, agra, auv, auviitk, sajal goyal iitk',
   siteUrl: 'https://sajalgoyal113.github.io/',
   siteLanguage: 'en_US',
-  //  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'G-6B0Z34CZQJ',
   //  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Sajal Goyal',
   location: 'Agra, India',
