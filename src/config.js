@@ -8,16 +8,6 @@ module.exports = {
   siteLanguage: 'en_US',
   //  googleAnalyticsID: 'UA-45666519-2',
   //  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6B0Z34CZQJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6B0Z34CZQJ');
-</script>
-  
   name: 'Sajal Goyal',
   location: 'Agra, India',
   email: 'sajalg@iitk.ac.in',
