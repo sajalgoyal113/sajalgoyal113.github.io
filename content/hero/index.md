@@ -1,7 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Sajal Goyal'
-subtitle: 'I learn things to build something.'
+subtitle: ''Go as far as you can see; when you get there, you’ll be able to see farther'  
+            ~*Thomas Carlyle*'
 buttonText: 'Get In Touch'
 ---
 
