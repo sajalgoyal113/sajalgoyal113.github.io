@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Sajal Goyal'
-subtitle: 'I love to play with Data. I am ambitious, thrive on challenge and constantly set goals for myself, so I have something to strive towards.'
+subtitle: 'I love to play with Data. I am ambitious, thrive on challenge and constantly set goals for myself.'
 buttonText: 'Get In Touch'
 ---
 
