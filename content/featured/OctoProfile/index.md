@@ -10,7 +10,7 @@ tech:
 showInProjects: true
 ---
 
-'***You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. ***'    -Dr. Seuss
+'***You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.***'  ~ Dr. Seuss
 
 - Pre-processed Point cloud data collected by Velodyne's Puck(VLP-16) in MATLAB to remove invalid points
 - Implemented code to cluster and differentiate ground points from the object clusters, while getting bounding boxes with labels of different objects by DBSCAN algorithm
