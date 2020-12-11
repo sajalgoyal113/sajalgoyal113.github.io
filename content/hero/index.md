@@ -5,4 +5,4 @@ subtitle: 'I love to play with Data. I am ambitious, thrive on challenge and con
 buttonText: 'Get In Touch'
 ---
 
-'***Go as far as you can see; when you get there, you’ll be able to see farther***'   ~Thomas Carlyle
+<div align="center">'***Go as far as you can see; when you get there, you’ll be able to see farther***'   ~Thomas Carlyle</div>
