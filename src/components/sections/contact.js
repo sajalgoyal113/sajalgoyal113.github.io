@@ -52,8 +52,8 @@ const Contact = ({ data }) => {
   return (
     <StyledContainer id="contact" ref={revealContainer}>
       <StyledHeading>What&apos;s Next?</StyledHeading>
-      <StyledTitle>{title}  <a href="https://info.flagcounter.com/4dnn"><img src="https://s01.flagcounter.com/count2/4dnn/bg_00FFC3/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" /></a> </StyledTitle>
-
+      <StyledTitle>{title}</StyledTitle>
+      <a href="https://info.flagcounter.com/4dnn"><img src="https://s01.flagcounter.com/count2/4dnn/bg_00FFC3/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" /></a> 
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
       <StyledEmailLink href={`mailto:${email}`} target="_blank" rel="nofollow noopener noreferrer">
