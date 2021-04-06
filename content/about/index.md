@@ -13,7 +13,7 @@ skills:
   - Latex
 ---
 
-Hello! I am a Third year Undergraduate at [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in the Chemical Department. Topics like **Stock Market** and **Data Science** interests me a lot and I have a good experience of the same. I am always overwhelmed with how technology has completely changed the way a human lives. I have worked on Machine Learning projects which included use of Natural Language Processing, Convolutional Neural Network and Reinforcement Learning that gave me great insight into how the general Machine learning framework works. 
+I am a Third year Undergraduate at [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in the Dept. of Chemical Engineering. Topics like **Financial Market** and **Data Science** interests me a lot and I have a good experience of the same. I enjoy participating in Portfolio Management, Data Science and various other Competitions and have secured a very good rank in some of them. I love to feed my brain with excess data and extract valuable patterns from it. I am always overwhelmed with how Technology has completely changed the way a Human lives. I have been a part of a great team working on the autonomous motion of Underwater vehicles using complex algorithms. I have worked on Machine Learning projects which included the use of Natural Language Processing, Convolutional Neural Network and Reinforcement Learning that gave me great insight into how the general Machine learning framework works.
 
 '***The way to get started is to quit talking and begin doing***' ~ Walt Disney
 
