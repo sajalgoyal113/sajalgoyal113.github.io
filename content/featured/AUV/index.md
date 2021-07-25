@@ -1,18 +1,18 @@
 ---
-date: '1'
-title: '       Text Reconstruction Application'
+date: '4'
+title: 'Autonomous Underwater Vehicle'
 cover: './demo.png'
-github: 'https://github.com/sajalgoyal113/Text-Reconstruction-Application'
+<!-- github: 'https://github.com/sajalgoyal113/Text-Reconstruction-Application' -->
 tech:
-  - Keras
-  - Tensorflow
+  - OpenCV
+  - C++
   - Python
-  - Numpy
+  - Image Processing
 showInProjects: true
 ---
 
-'***If you torture the data long enough, it will confess.***'  
-~ Ronald Coase
+'***Explore The Unexplored.***'  
 
-- Built a Deep Learning model which reconstructs a noisy image into clean image using Autoencoders for unsupervised training of the model. 
-- Analyzed the effect of different layers, epochs, filter size and various other hyperparameters on prediction accuracy of the model
+- Designed Detection and Tracking algorithm to detect complex objects and their centre under water using OpenCV
+- Created multi-class labelled underwater dataset for training the State-of-the-Art real time object detection system
+- Tweaked the vision layer in the codebase to complete image processing tasks meticulously while improving its robustness
