@@ -2,7 +2,7 @@
 date: '4'
 title: 'Autonomous Underwater Vehicle'
 cover: './demo.png'
-<!-- github: 'https://github.com/sajalgoyal113/Text-Reconstruction-Application' -->
+external: 'https://github.com/sajalgoyal113/Text-Reconstruction-Application'
 tech:
   - OpenCV
   - C++
