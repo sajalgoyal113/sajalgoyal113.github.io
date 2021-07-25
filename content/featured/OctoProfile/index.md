@@ -12,7 +12,6 @@ showInProjects: true
 
 '***You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.***'  ~ Dr. Seuss
 
-- Pre-processed Point cloud data collected by Velodyne's Puck(VLP-16) in MATLAB to remove invalid points
-- Implemented code to cluster and differentiate ground points from the object clusters, while getting bounding boxes with labels of different objects by DBSCAN algorithm
-- Implemented robust tracking using Kalman filter which optimally estimates the current state of the surrounding objects
-- Computed state estimate error covariance matrix for each track with JPDA tracker
+- Pre-processed the Point cloud data, collected by Velodyne’s Puck lidar sensor(VLP-16), in MATLAB to remove invalid points
+- Implemented code to differentiate ground points while getting bounding boxes of different objects by DBSCAN algorithm
+- Implemented robust tracking using Kalman filter optimally estimating the current state of the surrounding objects
