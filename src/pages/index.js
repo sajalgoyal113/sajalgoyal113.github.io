@@ -14,7 +14,7 @@ const IndexPage = ({ location, data }) => (
     <StyledMainContainer className="fillHeight">
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
-
+      <Jobs data={data.jobs.edges} />
       <Featured data={data.featured.edges} />
 
       <Contact data={data.contact.edges} />
@@ -62,7 +62,23 @@ export const pageQuery = graphql`
         }
       }
     }
-
+    jobs: allMarkdownRemark(
+       filter: { fileAbsolutePath: { regex: "/jobs/" } }
+       sort: { fields: [frontmatter___date], order: DESC }
+     ) {
+       edges {
+         node {
+           frontmatter {
+             title
+             company
+             location
+             range
+             url
+           }
+           html
+             }
+           }
+         }
 
 
     featured: allMarkdownRemark(
