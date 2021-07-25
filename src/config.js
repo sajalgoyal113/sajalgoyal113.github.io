@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Sajal Goyal | Data Science Enthusiast',
+  siteTitle: 'Sajal Goyal',
   siteDescription:
     'Sajal Goyal, Junior Undergraduate, Dept. of Chemical Engineering, IIT Kanpur.',
   siteKeywords:
