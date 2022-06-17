@@ -10,9 +10,9 @@ module.exports = {
   googleVerification: '3X9_yiURZY4g8cOxTd9CJ4kq9kszJezHGwkM2rUsUoM',
   name: 'Sajal Goyal',
   location: 'Agra, India',
-  email: 'sajalg@iitk.ac.in',
+  email: 'sajalg113@gmail.com',
   github: 'https://github.com/sajalgoyal113',
-  twitterHandle: '@yashsharmaddgg',
+  twitterHandle: '@sajalgo',
   socialMedia: [
     {
       name: 'GitHub',
@@ -20,12 +20,16 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sajal-goyal-94854388',
+      url: 'https://www.linkedin.com/in/sajalgoyal/',
     },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/sajalgoyal_/?hl=en',
     },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/sajalgo',
+    }
   ],
 
   navLinks: [
