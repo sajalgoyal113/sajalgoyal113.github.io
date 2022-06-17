@@ -2,13 +2,13 @@
   "name": "sajalgoyal113.github.io",
   "description": "Personal Website",
   "version": "1.0.0",
-  "author": "Sajal Goyal <sajalg@iitk.ac.in>",
+  "author": "Sajal Goyal <sajalg113@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://sajalgoyal113.github.io/"
   },
   "keywords": [
-    "gatsby"
+    "sajal goyal", "sajal", "sajal goyal iitk"
   ],
   "license": "MIT",
   "scripts": {
